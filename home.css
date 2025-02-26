@@ -1,0 +1,61 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: #DA8359;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #A5B68D;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #685752;
+    margin-left: 5%;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+    color: #685752;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: justify;
+    color: #685752;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 30.8%;
+    padding-left: 25px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.Description{
+    text-align: center;
+
+}
+
+.title{
+    margin-left: 5%;
+}
+body{
+    background-color: #FCFAEE;}
