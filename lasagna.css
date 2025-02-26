@@ -63,9 +63,14 @@ body{
     text-decoration: none;
     font-size: 35px;
     padding: 15px 40px;
+    margin: 0% 70% 10% 5%;
     color: #FCFAEE;
 }
 
 .hoch{
     max-height: 50%;
+}
+
+.wrap{
+    padding: 20px;
 }
